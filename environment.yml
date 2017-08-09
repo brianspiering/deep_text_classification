@@ -1,0 +1,11 @@
+# Instructions to run:
+# 1. cd to folder containing this file
+# 2. $ conda env create --force
+# 3. $ source activate dl
+name: dl
+channels:
+  - conda-forge
+dependencies:
+  - python = 3.6
+  - tensorflow = 1.2.1
+  - keras = 2.0.6
