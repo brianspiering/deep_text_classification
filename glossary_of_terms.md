@@ -27,6 +27,7 @@ Deep Learning Glossary
 | MNIST | Mixed National Institute of Standards and Technology Database | 
 | MP | Max-Pooling | 
 | MPCNN | Max-Pooling CNN | 
+| NLP | Natural Language Processing |
 | NN | neural network | 
 | RBM | Restricted Boltzmann Machine |
 | ReLU | Rectified Linear Unit | 
