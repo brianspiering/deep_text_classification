@@ -21,6 +21,7 @@ Deep Learning Glossary
 | GAN | Generative Adversarial Networks | 
 | GD | Gradient Descent |
 | GPU |  Graphics Processing Unit | 
+| ML | Machine Learning |
 | LSTM | Long Short Term Memory networks |
 | MLP | Multi-Layer Perceptron |
 | MNIST | Mixed National Institute of Standards and Technology Database | 
