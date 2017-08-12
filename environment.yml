@@ -2,6 +2,7 @@
 # 1. cd to folder containing this file
 # 2. $ conda env create --force
 # 3. $ source activate dl
+
 name: dl
 channels:
   - conda-forge
